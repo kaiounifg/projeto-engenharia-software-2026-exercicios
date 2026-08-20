@@ -198,8 +198,9 @@ Escolar, para que fique claro o nível de detalhe pretendido.
 
 | Modelo | Usado em |
 |---|---|
-| `termo-abertura.md` | M1 |
-| `declaracao-escopo.md` | M1 |
+| [`termo-abertura.md`](modelos/termo-abertura.md) | M1 |
+| [`declaracao-escopo.md`](modelos/declaracao-escopo.md) | M1 |
+| [`eap.md`](modelos/eap.md) | M1 |
 | `registro-riscos.md` | M1 |
 | `documento-requisitos.md` | M3 |
 | `matriz-rastreabilidade.md` | M3 |
@@ -216,7 +217,7 @@ acrescentar seções, e frequentemente deve.
 
 | UA | Aulas | Tema |
 |---|---|---|
-| **1** | [01](exercicios/aula01) · 02 · 03 · 04 · 05 | Gerenciamento de projetos |
+| **1** | [01](exercicios/aula01) · [02](exercicios/aula02) · 03 · 04 · 05 | Gerenciamento de projetos |
 | **2** | 06 · 07 · 08 · 09 · 10 · 11 | Modelos e metodologias |
 | **3** | 12 · 13 · 14 · 15 · 16 · 17 | Requisitos |
 | **4** | 18 · 19 · 20 · 21 · 22 · 23 · 24 | Modelagem UML e orientação a objetos |
